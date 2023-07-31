@@ -2,6 +2,8 @@
 
 1. Настроить сеть согласно схеме в файле https://disk.yandex.ru/d/1m4aUoqDm1SKBQ
 
+[s2.1_homework.pkt](https://github.com/Iv4nGB/ComputerNetworksHW2/blob/main/s2.1_homework.pkt)
+
 ![скрин выполненой работы](ScreenHW2/Homework2_1.png)
 
 2. Проверить работоспособность соседних между собой сетей командой ping. Понять почему один роутер отвечает, а другой нет.
